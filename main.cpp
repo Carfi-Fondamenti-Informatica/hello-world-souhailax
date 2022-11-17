@@ -23,6 +23,7 @@ int main(){
             cout << "opzione non valida" <<endl;
     }
     return 0;
+    }
 
 
     
